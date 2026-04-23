@@ -1,4 +1,4 @@
-# 📝 Named Entity Recognition: Static vs. Contextual Embeddings
+# Named Entity Recognition: Static vs. Contextual Embeddings
 **A Comparative Case Study on the CoNLL-2003 Dataset**
 ---
 
