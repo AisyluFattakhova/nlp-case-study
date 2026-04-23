@@ -1,7 +1,6 @@
 # Named Entity Recognition: Static vs. Contextual Embeddings
 **A Comparative Case Study on the CoNLL-2003 Dataset**
 ---
-
 ## Project Overview
 This project presents an empirical comparison between **Static Word Embeddings** (GloVe, Word2Vec) and **Contextual Embeddings** (BERT, RoBERTa) for the task of Named Entity Recognition (NER). 
 
